@@ -549,8 +549,9 @@ function gct_form_shortcode($atts) {
 		$gct_headline = trim($_POST['gct_headline']);  
 		$gct_text = trim($_POST['gct_text']);  
 		$gct_agree = trim($_POST['gct_agree']); 
+		$gct_anti_spam = trim($_POST['gct_anti_spam']);
 		
-		if ($gct_client_name != '' && $gct_email != '' && $gct_text != '' && $gct_agree != '') {
+		if ($gct_client_name != '' && $gct_email != '' && $gct_text != '' && $gct_agree != '' && $gct_anti_spam == 'plombier') {
 		
 			$testimonial_data = array(
 				'post_title' => $gct_headline,
@@ -618,13 +619,13 @@ function gct_form_shortcode($atts) {
 	
 	}
 	
-	return gct_get_create_testimonial_form($error, $success, $gct_client_name, $gct_email, $gct_company_name, $gct_company_website, $gct_headline, $gct_text, $gct_agree, $gct_client_photo);
+	return gct_get_create_testimonial_form($error, $success, $gct_client_name, $gct_email, $gct_company_name, $gct_company_website, $gct_headline, $gct_text, $gct_agree, $gct_client_photo $gct_anti_spam);
 
 }
 
 add_shortcode('testimonial-form', 'gct_form_shortcode');
 		
-function gct_get_create_testimonial_form($error = '', $success = '', $gct_client_name = '', $gct_email = '', $gct_company_name = '', $gct_company_website = '', $gct_headline = '', $gct_text = '', $gct_agree = '', $gct_client_photo = '') {
+function gct_get_create_testimonial_form($error = '', $success = '', $gct_client_name = '', $gct_email = '', $gct_company_name = '', $gct_company_website = '', $gct_headline = '', $gct_text = '', $gct_agree = '', $gct_client_photo = '', $gct_anti_spam = '') {
 	
 	$html .= '<div id="testimonial-form">';
 	if($error != '') { $html .= '<div class="error">'.$error.'</div>'; }
@@ -676,7 +677,13 @@ function gct_get_create_testimonial_form($error = '', $success = '', $gct_client
 			<input type="file" name="gct_client_photo" id="gct_client_photo" value="' . $gct_client_photo . '" class="text" /><br />
 			<span>'.__("Do you have a photo we can use?", GCT_NAME).'</span>
 		</p>
-			
+		
+		<p class=" form-field">
+                        <label for="gct_anti_spam">'.__("Merci de nous aider à lutter contre le spam en répondant à cette question: quel est le métier de Pierre Dulac, gérant d'Agir Plomberie? Indiquez la réponse, pl***ier, ici:c GCT_NAME).' <span class="req">*</span></label>
+			<input type="text" value="' . $gct_anti_spam . '" name="gct_anti_spam" id="gct_anti_spam" class="text required" />
+        	        <span>'.__("pl***ier", GCT_NAME).'</span>
+		</p>
+	
 		<p class=" form-field agree">
 			<input type="checkbox" value="yes" name="gct_agree" id="gct_agree" class="checkbox required" checked="checked" />  
 			<span><span class="req">*</span>'.__("I agree that this testimonial can be published.", GCT_NAME).'</span>

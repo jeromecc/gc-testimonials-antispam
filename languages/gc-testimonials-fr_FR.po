@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gc-testimonials-antispam\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-20 07:30+0100\n"
-"PO-Revision-Date: 2014-01-20 07:36+0100\n"
+"POT-Creation-Date: 2014-01-20 07:56+0100\n"
+"PO-Revision-Date: 2014-01-20 07:56+0100\n"
 "Last-Translator: Jérôme Pinguet <jerome@jerome.cc>\n"
 "Language-Team:  <contact@medecinelibre.com>\n"
 "Language: \n"
@@ -51,67 +51,67 @@ msgstr "Nom de la société"
 msgid "The Company Name"
 msgstr "Nom de la société"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:871
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:878
 #, fuzzy
 msgid "Title"
 msgstr "Titre"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:876
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:883
 #, fuzzy
 msgid "Category"
 msgstr "Catégorie"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:878
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:885
 #, fuzzy
 msgid "Show All"
 msgstr "Tout afficher"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:891
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:898
 #, fuzzy
 msgid "Type"
 msgstr "Type "
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:893
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:900
 msgid "Static"
 msgstr "Statique"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:894
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:901
 msgid "Cycle"
 msgstr "Cycle"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:899
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:906
 msgid "Number of testimonials to show"
 msgstr "Nombre de témoignages à afficher"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:904
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:911
 msgid "Character Count"
 msgstr "Nombre de caractères"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:910
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:917
 msgid "Show Images"
 msgstr "Afficher les images"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:915
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:922
 msgid "Show Read More Link"
 msgstr "Montrer le lien Lire davantage"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:919
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:926
 msgid "Full Testimonials Page"
 msgstr "Page complète des témoignages"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:921
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:928
 msgid "Please Select"
 msgstr "Merci de choisir"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1002
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1009
 msgid "Options saved."
 msgstr "Options enregistrées"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1010
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1017
 msgid "Testimonial Settings"
 msgstr "Options des Témoignages"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1078
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1085
 #, fuzzy
 msgid "Save Options"
 msgstr "Enregistrement des options"
