@@ -2,7 +2,8 @@
 /*
  * Plugin Name: GC Testimonials
  * Description: This plugin will help you to collect and show testimonials
- * Author: Erin Garscadden
+ * Original Author: Erin Garscadden
+ * Author of modifications: Jerome Pinguet
  * Version: 1.3.2
  * Requires: 3.0 or higher
  *  
@@ -22,7 +23,7 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-define('GCT_NAME', 'gc-testimonials');
+define('GCT_NAME', 'gc-testimonials-antispam');
 define('GCT_TAXONOMY', 'testimonial-category');
 define('GCT_POST_TYPE', 'testimonial');
 
