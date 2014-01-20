@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gc-testimonials-antispam\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-20 07:30+0100\n"
+"PO-Revision-Date: 2014-01-20 07:36+0100\n"
+"Last-Translator: Jérôme Pinguet <jerome@jerome.cc>\n"
+"Language-Team:  <contact@medecinelibre.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/elkcloner/git/medecinelibre/gc-testimonials\n"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:276
+msgid "Client"
+msgstr "Client"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:278
+msgid "The Clients Name"
+msgstr "Nom du client"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:281
+#, fuzzy
+msgid "Email"
+msgstr "Courriel"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:283
+msgid "The Clients Email"
+msgstr "Courriel du client"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:286
+#, fuzzy
+msgid "Website"
+msgstr "Site Web"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:288
+msgid "The Company Website"
+msgstr "Votre site web"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:291
+msgid "Company Name"
+msgstr "Nom de la société"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:293
+msgid "The Company Name"
+msgstr "Nom de la société"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:871
+#, fuzzy
+msgid "Title"
+msgstr "Titre"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:876
+#, fuzzy
+msgid "Category"
+msgstr "Catégorie"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:878
+#, fuzzy
+msgid "Show All"
+msgstr "Tout afficher"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:891
+#, fuzzy
+msgid "Type"
+msgstr "Type "
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:893
+msgid "Static"
+msgstr "Statique"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:894
+msgid "Cycle"
+msgstr "Cycle"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:899
+msgid "Number of testimonials to show"
+msgstr "Nombre de témoignages à afficher"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:904
+msgid "Character Count"
+msgstr "Nombre de caractères"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:910
+msgid "Show Images"
+msgstr "Afficher les images"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:915
+msgid "Show Read More Link"
+msgstr "Montrer le lien Lire davantage"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:919
+msgid "Full Testimonials Page"
+msgstr "Page complète des témoignages"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:921
+msgid "Please Select"
+msgstr "Merci de choisir"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1002
+msgid "Options saved."
+msgstr "Options enregistrées"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1010
+msgid "Testimonial Settings"
+msgstr "Options des Témoignages"
+
+#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1078
+#, fuzzy
+msgid "Save Options"
+msgstr "Enregistrement des options"
+
