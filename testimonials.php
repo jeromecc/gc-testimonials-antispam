@@ -620,7 +620,7 @@ function gct_form_shortcode($atts) {
 	
 	}
 	
-	return gct_get_create_testimonial_form($error, $success, $gct_client_name, $gct_email, $gct_company_name, $gct_company_website, $gct_headline, $gct_text, $gct_agree, $gct_client_photo $gct_anti_spam);
+	return gct_get_create_testimonial_form($error, $success, $gct_client_name, $gct_email, $gct_company_name, $gct_company_website, $gct_headline, $gct_text, $gct_agree, $gct_client_photo, $gct_anti_spam);
 
 }
 
