@@ -1,118 +1,304 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: gc-testimonials-antispam\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-01-20 07:56+0100\n"
-"PO-Revision-Date: 2014-01-20 07:56+0100\n"
+"Project-Id-Version: gc-testimonials\n"
+"POT-Creation-Date: 2013-08-08 14:25+0100\n"
+"PO-Revision-Date: 2014-01-20 09:35+0100\n"
 "Last-Translator: Jérôme Pinguet <jerome@jerome.cc>\n"
-"Language-Team:  <contact@medecinelibre.com>\n"
-"Language: \n"
+"Language-Team:  <Jérôme Pinguet>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _x;gettext;gettext_noop;__;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-Language: French\n"
-"X-Poedit-Country: FRANCE\n"
 "X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-SearchPath-0: /home/elkcloner/git/medecinelibre/gc-testimonials\n"
+"X-Poedit-SearchPath-0: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials\n"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:276
-msgid "Client"
-msgstr "Client"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:102
+msgid "Testimonials"
+msgstr "Témoignages"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:278
-msgid "The Clients Name"
-msgstr "Nom du client"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:103
+msgid "Testimonial Item"
+msgstr "Élément de témoignage"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:281
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:104
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:134
 #, fuzzy
-msgid "Email"
-msgstr "Courriel"
+msgid "Add New"
+msgstr "Nouveau"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:283
-msgid "The Clients Email"
-msgstr "Courriel du client"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:105
+msgid "Add New Testimonial"
+msgstr "Nouveau témoignage"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:286
-#, fuzzy
-msgid "Website"
-msgstr "Site Web"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:106
+msgid "Edit Testimonial"
+msgstr "Éditer le témoignage"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:288
-msgid "The Company Website"
-msgstr "Votre site web"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:107
+msgid "New Testimonial"
+msgstr "Nouveau témoignage"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:291
-msgid "Company Name"
-msgstr "Nom de la société"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:108
+msgid "View Testimonial"
+msgstr "Voir le témoignage"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:293
-msgid "The Company Name"
-msgstr "Nom de la société"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:109
+msgid "Search Testimonials"
+msgstr "Rechercher les témoignages"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:878
-#, fuzzy
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:110
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:140
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:111
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:141
+msgid "Nothing found in Trash"
+msgstr "Aucun résultat dans la corbeille"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:117
+msgid "testimonial"
+msgstr "Témoignage"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:132
+msgid "Testimonial Categories"
+msgstr "Catégories des témoignages"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:133
+msgid "Testimonial Category"
+msgstr "Catégorie du témoignage"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:135
+msgid "Add New Category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:136
+msgid "Edit Category"
+msgstr "Éditer la catégorie"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:137
+msgid "New Category"
+msgstr "Nouvelle catégorie"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:138
+msgid "View Category"
+msgstr "Voir la catégorie"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:139
+msgid "Search Category"
+msgstr "Rechercher la catégorie"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:181
 msgid "Title"
 msgstr "Titre"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:883
-#, fuzzy
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:182
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:252
+msgid "Client"
+msgstr "Client"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:183
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:197
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:184
 msgid "Category"
 msgstr "Catégorie"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:885
-#, fuzzy
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:185
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:296
+msgid "Shortcode"
+msgstr "Code court"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:186
+msgid "Date"
+msgstr "Date"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:220
+msgid "None"
+msgstr "Aucun"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:254
+msgid "The Clients Name"
+msgstr "Le nom du client"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:257
+msgid "Email"
+msgstr "Email"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:259
+msgid "The Clients Email"
+msgstr "L'email du client"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:262
+msgid "Website"
+msgstr "Site web"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:264
+msgid "The Company Website"
+msgstr "Site web de la société"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:267
+msgid "Company Name"
+msgstr "Nom de la société"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:269
+msgid "The Company Name"
+msgstr "Le nom de la société"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:294
+msgid "Name"
+msgstr "Nom"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:295
+msgid "Slug"
+msgstr "Slug"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:297
+msgid "Posts"
+msgstr "Posts"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:574
+msgid "Thank You! Your Testimonial is awaiting moderation."
+msgstr "Merci! Votre témoignage est en cours de modération."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:579
+msgid "Please check that you have filled out the required fields."
+msgstr "Merci de vérifier que vous avez rempli les champs obligatoires."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:580
+msgid "Please agree to your testimonial being published."
+msgstr "Merci d'accepter la publication de votre témoignage."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:581
+msgid "Please enter your name."
+msgstr "Merci d'écrire votre nom."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:582
+msgid "Please enter your email address."
+msgstr "Merci d'écrire votre email."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:583
+msgid "Please enter your testimonial."
+msgstr "Merci d'écrire votre témoignage."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:598
+msgid "Required Field"
+msgstr "Champ obligatoire"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:604
+msgid "Full Name:"
+msgstr "Nom complet:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:606
+msgid "What is your fullname?"
+msgstr "Quel est votre nom complet?"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:610
+msgid "Email:"
+msgstr "Email:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:612
+msgid "Fill in your email address"
+msgstr "Remplissez votre email"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:616
+msgid "Company Name:"
+msgstr "Nom de la société:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:618
+msgid "What is your company name?"
+msgstr "Quelle est le nom de votre société?"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:622
+msgid "Company Website:"
+msgstr "Site web de la société:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:624
+msgid "Does your company have a website?"
+msgstr "Votre société a-t-elle 1 site web?"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:628
+msgid "Heading:"
+msgstr "Titre:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:630
+msgid "Describe our company in a few short words"
+msgstr "Décrivez notre société en quelques mots."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:634
+msgid "Testimonial:"
+msgstr "Témoignage:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:636
+msgid "What do you think about our company?"
+msgstr "Que pensez-vous de notre société?"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:642
+msgid "Photo:"
+msgstr "Image:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:644
+msgid "Do you have a photo we can use?"
+msgstr "Avez-vous une image que nous pourrions utiliser?"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:649
+msgid "I agree that this testimonial can be published."
+msgstr "J'autorise la publication de ce témoignage."
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:655
+msgid "Add Testimonial"
+msgstr "Ajouter un témoignage"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:791
+msgid "Read More Testimonials"
+msgstr "Lire plus de témoignages"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:829
+msgid "Title:"
+msgstr "Titre:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:834
+msgid "Category:"
+msgstr "Catégoriei:"
+
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:836
 msgid "Show All"
-msgstr "Tout afficher"
+msgstr "Tout montrer"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:898
-#, fuzzy
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:849
 msgid "Type"
-msgstr "Type "
+msgstr "Type"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:900
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:851
 msgid "Static"
 msgstr "Statique"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:901
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:852
 msgid "Cycle"
-msgstr "Cycle"
+msgstr "Faire tourner"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:906
-msgid "Number of testimonials to show"
-msgstr "Nombre de témoignages à afficher"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:857
+msgid "Number of testimonials to show:"
+msgstr "Nombre de témoignages à montrer:"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:911
-msgid "Character Count"
-msgstr "Nombre de caractères"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:863
+msgid "Show Images?"
+msgstr "Montre l'image?"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:917
-msgid "Show Images"
-msgstr "Afficher les images"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:868
+msgid "Show Read More Link?"
+msgstr "Montrer le lien \"Lire davantage\"?"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:922
-msgid "Show Read More Link"
-msgstr "Montrer le lien Lire davantage"
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:872
+msgid "Full Testimonials Page:"
+msgstr "Page des témoignages complets"
 
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:926
-msgid "Full Testimonials Page"
-msgstr "Page complète des témoignages"
-
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:928
+#: /Users/TStone/Documents/Websites/www.hakanberg.com/wp-content/plugins/gc-testimonials/testimonials.php:874
 msgid "Please Select"
-msgstr "Merci de choisir"
-
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1009
-msgid "Options saved."
-msgstr "Options enregistrées"
-
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1017
-msgid "Testimonial Settings"
-msgstr "Options des Témoignages"
-
-#: /home/elkcloner/git/medecinelibre/gc-testimonials/testimonials.php:1085
-#, fuzzy
-msgid "Save Options"
-msgstr "Enregistrement des options"
+msgstr "Merci de sélectionner"
 
