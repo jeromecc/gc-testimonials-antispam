@@ -23,7 +23,7 @@
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
-define('GCT_NAME', 'gc-testimonials-antispam');
+define('GCT_NAME', 'gc-testimonials');
 define('GCT_TAXONOMY', 'testimonial-category');
 define('GCT_POST_TYPE', 'testimonial');
 
