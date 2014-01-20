@@ -680,7 +680,7 @@ function gct_get_create_testimonial_form($error = '', $success = '', $gct_client
 		</p>
 		
 		<p class=" form-field">
-                        <label for="gct_anti_spam">'.__("Merci de nous aider à lutter contre le spam en répondant à cette question: quel est le métier de Pierre Dulac, gérant d'Agir Plomberie? Indiquez la réponse, pl***ier, ici:c GCT_NAME).' <span class="req">*</span></label>
+                        <label for="gct_anti_spam">'.__("Merci de nous aider à lutter contre le spam en répondant à cette question: quel est le métier de Pierre Dulac, gérant d'Agir Plomberie? Indiquez la réponse, pl***ier, ici:", GCT_NAME).' <span class="req">*</span></label>
 			<input type="text" value="' . $gct_anti_spam . '" name="gct_anti_spam" id="gct_anti_spam" class="text required" />
         	        <span>'.__("pl***ier", GCT_NAME).'</span>
 		</p>
